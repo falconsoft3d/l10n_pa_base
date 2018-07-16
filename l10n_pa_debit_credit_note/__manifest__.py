@@ -23,8 +23,8 @@
 {
     'name': 'Credit and Debit Notes For Panama MFH',
     'version': '10.0.0.1.0',
-    'author': "Falcón Solutions SpA",
-    'maintainer': 'Falcon Solutions',
+    'author': "Falcon Solutions SpA",
+    'author': "Falcon Solutions SpA",
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Account',
@@ -44,4 +44,5 @@ Contabilidad: Nota de Debito y Credito
         'views/account_view.xml',
     ],
     'installable': True,
+    'images': ['static/description/banner.jpg'],
 }
