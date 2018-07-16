@@ -43,11 +43,12 @@ Módulo Impresora Fiscal
 """,
     'data': [
              'views/account_invoice_view.xml',
-             'images': ['static/description/banner.jpg'],
+             
             ],
     'demo': [],
     'test': [],
     'installable': True,
     'auto_install': False,
+    'images': ['static/description/banner.jpg'],
 
 }
