@@ -23,12 +23,12 @@
 {
     'name': 'Base Panama location MFH',
     'version': '10.0.0.1.0',
-    'author': "Falcón Solutions",
-    'maintainer': 'Falcon Solutions',
+    'author': "Falcon Solutions SpA",
+    'author': "Falcon Solutions SpA",
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Localization/Panama',
-    'summary': 'Paraguay location: Load basic data.',
+    'summary': 'Panama location: Load basic data.',
     'depends': [
                 'base',
                 'base_vat',
@@ -48,6 +48,7 @@ Módulo Panamá Base
              'views/account_account_view.xml',
             ],
     'demo': [],
+    'images': ['static/description/banner.jpg'],
     'test': [],
     'installable': True,
     'auto_install': False,
