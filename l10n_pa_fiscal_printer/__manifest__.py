@@ -23,8 +23,8 @@
 {
     'name': 'Fiscal Printer Panama MFH',
     'version': '10.0.0.1.0',
-    'author': "Falcón Solutions",
-    'maintainer': 'Falcon Solutions',
+    'author': "Falcon Solutions SpA",
+    'maintainer': 'Falcon Solutions SpA',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Localization/Panama',
@@ -43,6 +43,7 @@ Módulo Impresora Fiscal
 """,
     'data': [
              'views/account_invoice_view.xml',
+             'images': ['static/description/banner.jpg'],
             ],
     'demo': [],
     'test': [],
